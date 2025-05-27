@@ -180,7 +180,7 @@ export default function HeroSection() {
               <ul>
                 <li>
                   <a
-                    href="https://github.com/Brahamanbtp"
+                    href="https://personal-portfolio-my.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -189,7 +189,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/Brahamanbtp"
+                    href="https://personal-portfolio-my.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -198,7 +198,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/Brahamanbtp"
+                    href="https://personal-portfolio-my.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -221,7 +221,7 @@ export default function HeroSection() {
             <ul>
               <li>
                 <a
-                  href="https://github.com/Brahamanbtp"
+                  href="https://personal-portfolio-my.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
