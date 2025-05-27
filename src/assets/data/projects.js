@@ -3,44 +3,36 @@ import ProjectImg from '../images/projectImg.png';
 import UTrackerImg from '../images/utracker.jpg';
 import GreenCtgImg from '../images/greenctg.jpg';
 import CoinTrackerImg from '../images/cointracker.jpg';
-import CavinImg from '../images/cavinimg.jpg';
+
 
 const projects = [
   {
     id: uuidv4(),
-    name: 'U Tracker',
-    desc: 'An application to track your all data from one place. I developed the website and the mobile app',
+    name: 'FortiCryptX',
+    desc: 'A powerful and user-friendly cybersecurity tool for encrypting and decrypting files using industry-standard algorithms.',
     img: UTrackerImg,
+    link: 'https://github.com/Brahamanbtp/FortiCryptX',
   },
   {
     id: uuidv4(),
-    name: 'Green CTG',
-    desc: 'An app to help people to get an overview of how they can make the city beautiful.',
+    name: 'React Portfolio',
+    desc: 'A sleek, responsive developer portfolio built using React to showcase projects, skills, and contact information.',
     img: GreenCtgImg,
+    link: 'https://github.com/Brahamanbtp/react-portfolio',
   },
   {
     id: uuidv4(),
-    name: 'Coin Tracker',
-    desc: 'Using this app you can track any e coin. Also you will get a good advise about investment form the professional',
+    name: 'Student Management System',
+    desc: 'A role-based student management system to manage admissions, exams, library, hostel, and more with modern UI features.',
     img: CoinTrackerImg,
+    link: 'https://github.com/Brahamanbtp/Student-Management-System',
   },
   {
     id: uuidv4(),
-    name: "Cavin's Portfolio",
-    desc: 'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
-    img: CavinImg,
-  },
-  {
-    id: uuidv4(),
-    name: 'Tracking Soft',
-    desc: 'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
+    name: 'KeyCrypt Shield',
+    desc: 'An advanced encryption and password manager app designed to securely store and manage sensitive user credentials.',
     img: ProjectImg,
-  },
-  {
-    id: uuidv4(),
-    name: 'Tracking Soft',
-    desc: 'A tracking website that will show the performance of the website. Also you will get some useful advice to improve the performance.',
-    img: CavinImg,
+    link: 'https://github.com/Brahamanbtp/KeyCrypt-Shield',
   },
 ];
 
