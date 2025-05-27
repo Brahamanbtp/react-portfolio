@@ -180,7 +180,7 @@ export default function HeroSection() {
               <ul>
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="https://github.com/Brahamanbtp"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -189,7 +189,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="https://github.com/Brahamanbtp"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -198,7 +198,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="javascript:void(0)"
+                    href="https://github.com/Brahamanbtp"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -221,7 +221,7 @@ export default function HeroSection() {
             <ul>
               <li>
                 <a
-                  href="javascript:void(0)"
+                  href="https://github.com/Brahamanbtp"
                   target="_blank"
                   rel="noreferrer"
                 >
