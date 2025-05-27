@@ -49,10 +49,10 @@ export default function Map() {
       <div className="container">
         <div className="map__card">
           <h3 className="map__card__heading">Here is me</h3>
-          <PText>Mirpur-1, Tolarbagh, Dhaka, Bangladesh</PText>
+          <PText>Jayanti Nagar, Bharatpur, Rajasthan-321001, India</PText>
           <a
             className="map__card__link"
-            href="https://www.google.com/maps/place/1+Tolarbag+Mosque+Rd,+Dhaka+1216/@23.7867831,90.3480971,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c0ecb4de23c1:0xba5056e981e4539b!8m2!3d23.7867782!4d90.3502858"
+            href="https://www.google.com/maps/place/Bharatpur,+Rajasthan/@27.2198438,77.4520447,11797m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3973a30a845a736f:0x5a0f103593eece08!8m2!3d27.2151863!4d77.5029996!16s%2Fm%2F02r82ff?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"
             target="_blank"
             rel="noreferrer"
           >
