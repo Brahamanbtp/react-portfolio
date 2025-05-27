@@ -22,7 +22,7 @@ const ItemStyles = styled.div`
 export default function ServicesSectionItem({
   icon = <MdDesktopMac />,
   title = 'Web Design',
-  desc = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's ok",
+  desc = "Crafting visually stunning and user-friendly websites that elevate your brand and deliver a seamless digital experience.",
 }) {
   return (
     <ItemStyles className="servicesItem">
