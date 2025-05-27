@@ -85,7 +85,7 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText className="about-text">
-            I am a software developer from Dhaka, Bangladesh.I create
+            I am a software developer from Rajasthan, India.I create
             professional websites. I love art and always try to show unique
             views to the audience through my design.
           </PText>
