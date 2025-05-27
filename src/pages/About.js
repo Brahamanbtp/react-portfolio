@@ -82,17 +82,16 @@ export default function About() {
           <div className="top-section">
             <div className="left">
               <p className="about__subheading">
-                Hi, I am <span>Misbah Uddin Muib</span>
+                Hi, I am <span>Pranay Sharma</span>
               </p>
-              <h2 className="about__heading">A Software developer</h2>
+              <h2 className="about__heading">A Software Engineer</h2>
               <div className="about__info">
                 <PText>
-                  I am from Dhaka, Bangladesh.I love art and design. I always
+                  I am from Rajasthan, India.I love art and design. I always
                   try to design stuff with my unique point of view.I also love
                   to create things that can be useful to others.
                   <br /> <br />
-                  I started coding since I was in high school. Coding is also an
-                  art for me. I love it and now I have the opportunity to design
+                  I have the opportunity to design
                   along with the coding. I find it really interesting and I
                   enjoyed the process a lot.
                   <br />
@@ -115,16 +114,13 @@ export default function About() {
 
               <AboutInfoItem
                 title="School"
-                items={['Nageshwari DM Academy, Nageshwari']}
+                items={['Jaswant V.B.S. Sr. Sec. School, Bharatpur, Rajasthan']}
               />
               <AboutInfoItem
                 title="Collage"
-                items={['Nageshwari Govt College, Nageshwari']}
+                items={['VIT University, Chenna']}
               />
-              <AboutInfoItem
-                title="Varsity"
-                items={['Daffodil International University']}
-              />
+              
             </div>
             <div className="about__info__item">
               <h1 className="about__info__heading">My Skills</h1>
@@ -142,7 +138,6 @@ export default function About() {
                   'Rest API',
                 ]}
               />
-              <AboutInfoItem title="BackEnd" items={['Node', 'Express']} />
               <AboutInfoItem title="Database" items={['MySQL', 'MongoDB']} />
               <AboutInfoItem
                 title="Tools"
@@ -151,10 +146,8 @@ export default function About() {
                   'Github',
                   'VS-Code',
                   'Chrome Dev Tool',
-                  'Heroku',
                   'Firebase',
                   'Netlify',
-                  'Figma',
                 ]}
               />
             </div>
@@ -162,12 +155,12 @@ export default function About() {
               <h1 className="about__info__heading">Experiences</h1>
 
               <AboutInfoItem
-                title="2021 - Present"
-                items={['Software developer at Intigsol Ltd']}
+                title=""
+                items={['']}
               />
               <AboutInfoItem
-                title="2018 - 2019"
-                items={['Web App Development (Trainee) at BITM ']}
+                title=""
+                items={['']}
               />
             </div>
           </div>
