@@ -3,6 +3,7 @@ import ProjectImg from '../images/projectImg.png';
 import UTrackerImg from '../images/utracker.jpg';
 import GreenCtgImg from '../images/greenctg.jpg';
 import CoinTrackerImg from '../images/cointracker.jpg';
+import img4 from '../images/img4.PNG';
 
 const projects = [
   {
@@ -44,7 +45,7 @@ const projects = [
     id: uuidv4(),
     name: 'DevQR Card',
     desc: 'DevQRCard is a beautifully designed platform for developers to create, customize, and share their digital identity cards with integrated QR codes, profiles, and portfolios.',
-    img: ProjectImg,
+    img: img4,
     link: 'https://github.com/Brahamanbtp/devqr-card',
   },
 ];
