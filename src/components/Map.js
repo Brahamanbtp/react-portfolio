@@ -7,7 +7,7 @@ const MapStyles = styled.div`
   background: url(${MapImg}) no-repeat;
   background-position: center;
   background-size: cover;
-  min-height: 400px;
+  min-height: 450px;
   .container {
     position: relative;
     min-height: 400px;
