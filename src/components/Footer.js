@@ -113,7 +113,7 @@ export default function Footer() {
               },
               {
                 title: 'Jayanti Nagar, Bharatpur, Rajasthan-321001, India',
-                path: 'http://google.com/maps',
+                path: 'https://www.google.com/maps/place/Bharatpur,+Rajasthan/@27.2198438,77.4520447,11797m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3973a30a845a736f:0x5a0f103593eece08!8m2!3d27.2151863!4d77.5029996!16s%2Fm%2F02r82ff?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D',
               },
             ]}
           />
@@ -131,12 +131,8 @@ export default function Footer() {
                 path: 'https://www.linkedin.com/in/pranay-sharma-9a145b226/',
               },
               {
-                title: 'Facebook',
-                path: '',
-              },
-              {
-                title: 'Instagram',
-                path: '',
+                title: 'Medium',
+                path: 'https://medium.com/@brahamanbtp',
               },
               {
                 title: 'Twitter',
@@ -149,7 +145,7 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2025 - Pranay Sharma | Designed By{' '}
+            © 2025-Pranay Sharma|Designed By{' Pranay Sharma '}
           </PText>
         </div>
       </div>
