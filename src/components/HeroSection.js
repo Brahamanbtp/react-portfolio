@@ -189,20 +189,20 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="https://personal-portfolio-my.netlify.app/"
+                    href="https://medium.com/@brahamanbtp"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    TW
+                    ME
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://personal-portfolio-my.netlify.app/"
+                    href="https://www.linkedin.com/in/pranay-sharma-9a145b226/"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    IG
+                    LI
                   </a>
                 </li>
                 <li>
